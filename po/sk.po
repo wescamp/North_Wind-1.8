@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2010-10-03 13:13+0200\n"
+"PO-Revision-Date: 2010-10-03 13:13+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#. [campaign]: id=The_North_Wind
+#. [editor_group]: id=tnw
+#: North_Wind/_main.cfg:15 North_Wind/_main.cfg:60
+msgid "The North Wind"
+msgstr ""
+
+#. [campaign]: id=The_North_Wind
+#: North_Wind/_main.cfg:25
+msgid ""
+"Wesnoth's army was occupied fighting Mal Ravanal in the East, but there were "
+"whisperings of an orcish attack in the north. Konrad II sent Deoran, now an "
+"experienced rider and commander, with a small band of knights to hold off "
+"the orcs... \n"
+"(expert level, 2 scenarios)\n"
+"\n"
+msgstr ""
+
+#. [campaign]: id=The_North_Wind
+#: North_Wind/_main.cfg:30
+msgid "(Normal)"
+msgstr ""
+
+#. [campaign]: id=The_North_Wind
+#: North_Wind/_main.cfg:30
+msgid "Recruit"
+msgstr ""
+
+#. [campaign]: id=The_North_Wind
+#: North_Wind/_main.cfg:31
+msgid "(Challenging)"
+msgstr ""
+
+#. [campaign]: id=The_North_Wind
+#: North_Wind/_main.cfg:31
+msgid "Soldier"
+msgstr ""
+
+#. [campaign]: id=The_North_Wind
+#: North_Wind/_main.cfg:32
+msgid "(Extreme)"
+msgstr ""
+
+#. [campaign]: id=The_North_Wind
+#: North_Wind/_main.cfg:32
+msgid "Royal Guard"
+msgstr ""
+
+#. [unit_type]: id=Marauder Axeman, race=human
+#: North_Wind/units/Marauder_Axeman.cfg:4
+msgid "Marauder Axeman"
+msgstr ""
+
+#. [unit_type]: id=Marauder Charger, race=human
+#. [unit_type]: id=Marauder Axeman, race=human
+#. [unit_type]: id=Marauder Woodsman, race=human
+#. [unit_type]: id=Marauder Hunter, race=human
+#: North_Wind/units/Marauder_Charger.cfg:35
+#: North_Wind/units/Marauder_Axeman.cfg:20
+#: North_Wind/units/Marauder_Woodsman.cfg:20
+#: North_Wind/units/Marauder_Hunter.cfg:20
+msgid ""
+"The riders of the Bright Spears have lost their armour and mounts, but they "
+"are still trained soldiers of Wesnoth. After their camp was overrun, they "
+"took to the hills and learned the ways of the mountains even better than the "
+"orcs."
+msgstr ""
+
+#. [attack]: type=blade
+#: North_Wind/units/Marauder_Charger.cfg:42
+#: North_Wind/units/Marauder_Axeman.cfg:27
+#: North_Wind/units/Marauder_Woodsman.cfg:27
+#: North_Wind/units/Marauder_Hunter.cfg:27
+msgid "heavy axe"
+msgstr ""
+
+#. [attack]: type=pierce
+#: North_Wind/units/Marauder_Axeman.cfg:36
+#: North_Wind/units/Marauder_Woodsman.cfg:36
+#: North_Wind/units/Marauder_Hunter.cfg:36
+msgid "dirk"
+msgstr ""
+
+#. [unit_type]: id=Marauder Charger, race=human
+#: North_Wind/units/Marauder_Charger.cfg:4
+msgid "Marauder Charger"
+msgstr ""
+
+#. [attack]: type=pierce
+#: North_Wind/units/Marauder_Charger.cfg:51
+msgid "bow"
+msgstr ""
+
+#. [unit_type]: id=Marauder Hunter, race=human
+#: North_Wind/units/Marauder_Hunter.cfg:4
+msgid "Marauder Hunter"
+msgstr ""
+
+#. [unit_type]: id=Marauder Lookout, race=human
+#: North_Wind/units/Marauder_Lookout.cfg:4
+msgid "Marauder Lookout"
+msgstr ""
+
+#. [unit_type]: id=Marauder Pioneer, race=human
+#. [unit_type]: id=Marauder Scout, race=human
+#. [unit_type]: id=Marauder Lookout, race=human
+#: North_Wind/units/Marauder_Pioneer.cfg:20
+#: North_Wind/units/Marauder_Scout.cfg:20
+#: North_Wind/units/Marauder_Lookout.cfg:20
+msgid ""
+"The scouts of the Bright Spears have lost their armour and mounts, but they "
+"are still trained soldiers of Wesnoth. After their camp was overrun, they "
+"took to the hills and learned the ways of the mountains even better than the "
+"orcs."
+msgstr ""
+
+#. [attack]: type=blade
+#: North_Wind/units/Marauder_Pioneer.cfg:27
+#: North_Wind/units/Marauder_Scout.cfg:27
+#: North_Wind/units/Marauder_Lookout.cfg:27
+msgid "axe"
+msgstr ""
+
+#. [attack]: type=impact
+#: North_Wind/units/Marauder_Pioneer.cfg:63
+#: North_Wind/units/Marauder_Lookout.cfg:63
+msgid "net"
+msgstr ""
+
+#. [unit_type]: id=Marauder Pioneer, race=human
+#: North_Wind/units/Marauder_Pioneer.cfg:4
+msgid "Marauder Pioneer"
+msgstr ""
+
+#. [unit_type]: id=Marauder Scout, race=human
+#: North_Wind/units/Marauder_Scout.cfg:4
+msgid "Marauder Scout"
+msgstr ""
+
+#. [unit_type]: id=Marauder Woodsman, race=human
+#: North_Wind/units/Marauder_Woodsman.cfg:4
+msgid "Marauder Woodsman"
+msgstr ""
+
+#. [terrain_type]: id=DesertCampfire
+#: North_Wind/utils/terrain.cfg:7
+msgid "Campfire"
+msgstr ""
+
+#. [terrain_type]: id=City Road
+#: North_Wind/utils/terrain.cfg:16
+msgid "City Road"
+msgstr ""
